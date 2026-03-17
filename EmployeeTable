@@ -14,3 +14,5 @@ VALUES (2, 'Neha Patil', 65000.50, DATE '2023-11-20');
 
 
 SELECT * FROM employees;
+
+SELECT emp_id, emp_name, salary FROM employees;
