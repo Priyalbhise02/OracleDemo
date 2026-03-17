@@ -5,3 +5,9 @@ CREATE TABLE employees (
     hire_date DATE
 );
 
+
+INSERT INTO employees (emp_id, emp_name, salary, hire_date)
+VALUES (1, 'Amit Sharma', 50000, DATE '2024-01-15');
+
+INSERT INTO employees (emp_id, emp_name, salary, hire_date)
+VALUES (2, 'Neha Patil', 65000.50, DATE '2023-11-20');
