@@ -1,5 +1,3 @@
-
-
 INSERT INTO PRIYALEMP (emp_id, emp_name, salary, hire_date)
 VALUES (1, 'Amit Sharma', 50000, DATE '2024-01-15');
 
