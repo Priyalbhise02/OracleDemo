@@ -1,3 +1,3 @@
 -- Delete specific employee
-DELETE FROM Employee
+DELETE FROM PRIYALEMP 
 WHERE emp_id = 101;
